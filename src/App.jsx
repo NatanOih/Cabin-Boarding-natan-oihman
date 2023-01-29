@@ -35,8 +35,8 @@ function App() {
             smooth: true,
             // ... all available Locomotive Scroll instance options
             smartphone: {
-              smooth: true,
-              touchMultiplier: 4,
+              smooth: false,
+              touchMultiplier: 100,
             },
             tablet: {
               smooth: true,
